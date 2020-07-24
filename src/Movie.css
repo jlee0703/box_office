@@ -1,0 +1,16 @@
+.movie {
+  background-color: #6f74dd;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+.commom_m {
+  padding: 10px;
+}
+.movie_ranking {
+  border-bottom: 1px solid #ffffff;
+}
+.movie_title {
+  font-size: 20px;
+  line-height: 20px;
+  border-bottom: 1px solid #ffffff;
+}
